@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/abohoman/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Official Music Licensing for Abohoman](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Abohoman](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> নেশা ধরানো এই রাতে তুমি আরও কাছে এসো
+> আমার ঠোঁটের উষ্ণতায় তুমি একটু ভালোবেসো
+> তোমার আদুরে ছোঁয়ায় আজ মাতাল এই মন
+> অবাধ্য প্রেমের আগুনে পুড়ছি সারাক্ষণ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
