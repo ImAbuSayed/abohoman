@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abohoman
+
+This log tracks the cryptographic history and versioning for the song **Abohoman** (abohoman).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:23:09.288722 | `v1` | `b1f44349b7b1cebd5371866c60832e0a70c09573973c125e0c2f523e89083b40` | `1e284b664b09d9aff96c237f4d2bfdce758855398ed9788a271fc19b1275c1fa` | `2026-05-08_abohoman-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
